@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+__pycache__/
+
+# macOS app is distributed as a zip for easier GitHub downloads.
+gpon_onu_config.app/
